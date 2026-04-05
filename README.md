@@ -1,4 +1,4 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *Orbital Watch*
 
 Submitted by: **Robby Wideman**
 
@@ -34,7 +34,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Added a clear filters button to reset filters to default, enabling users to start a clean search without having to reload the entire page.
+* [X] Added a clear filters button to reset filters to default, enabling users to start a clean search without having to reload the entire page.
+* [X] Enlarged placeholder text within dynamic search bar to draw user's attention to that as a ssearch option without having to use filters or search the entire page individually.
 
 ## Video Walkthrough
 
