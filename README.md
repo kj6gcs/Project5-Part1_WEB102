@@ -51,7 +51,7 @@ Here’s a video walkthrough of the implemented required features:
 </p>
 
 <p align="center">
-  <img src="public/project5Part1Walkthrough.gif" alt="Project Walkthrough" width="600">
+  <img src="Data%20Dashboard%20Part%201/public/project5Part1Walkthrough.gif" alt="Project Walkthrough" width="600">
 </p>
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
