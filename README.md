@@ -51,7 +51,7 @@ Here’s a video walkthrough of the implemented required features:
 </p>
 
 <p align="center">
-  <img src="/project5Part1Walkthrough.gif" alt="Project Walkthrough">
+  <img src="public/project5Part1Walkthrough.gif" alt="Project Walkthrough">
 </p>
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
