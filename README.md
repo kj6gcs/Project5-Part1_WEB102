@@ -46,7 +46,7 @@ Here’s a video walkthrough of the implemented required features:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=_8-BF_UXPbE" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.youtube.com/watch?v=_8-BF_UXPbE/hqdefault.jpg" width="600" alt="Video Walkthrough Thumbnail">
+    <img src="https://img.youtube.com/vi/_8-BF_UXPbE/hqdefault.jpg" width="600" alt="Video Walkthrough Thumbnail">
   </a>
 </p>
 
