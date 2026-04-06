@@ -1,58 +1,64 @@
-# Web Development Project 5 - *Orbital Watch*
+# Web Development Project 5 - _Orbital Watch_
 
 Submitted by: **Robby Wideman**
 
-This web app: **Orbital Watch is a space-mission-themed data dashboard that displays upcoming launches and missions using a public API. Users can view summary statistics, search launches by name, and filter results by status.**
+This web app: **Orbital Watch uses The Space Devs Launch Library 2 public API to fetch real upcoming space launch data, including mission names, providers, launch dates, and locations.**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **The site has a dashboard displaying a list of data fetched using an API call**
+- [x] **The site has a dashboard displaying a list of data fetched using an API call**
   - The dashboard should display at least 10 unique items, one per row
   - The dashboard includes at least two features in each row
-- [X] **`useEffect` React hook and `async`/`await` are used**
-- [X] **The app dashboard includes at least three summary statistics about the data** 
+- [x] **`useEffect` React hook and `async`/`await` are used**
+- [x] **The app dashboard includes at least three summary statistics about the data**
   - The app dashboard includes at least three summary statistics about the data, such as:
-    - *insert details here*
-- [X] **A search bar allows the user to search for an item in the fetched data**
+    - _Total Launches_
+    - _Launch Providers_
+    - _Launches With Missions_
+    - _Matching Current Filters_
+- [x] **A search bar allows the user to search for an item in the fetched data**
   - The search bar **correctly** filters items in the list, only displaying items matching the search query
   - The list of results dynamically updates as the user types into the search bar
-- [X] **An additional filter allows the user to restrict displayed items by specified categories**
-  - The filter restricts items in the list using a **different attribute** than the search bar 
+- [x] **An additional filter allows the user to restrict displayed items by specified categories**
+  - The filter restricts items in the list using a **different attribute** than the search bar
   - The filter **correctly** filters items in the list, only displaying items matching the filter attribute in the dashboard
   - The dashboard list dynamically updates as the user adjusts the filter
 
 The following **optional** features are implemented:
 
-- [X] Multiple filters can be applied simultaneously
-- [X] Filters use different input types
+- [x] Multiple filters can be applied simultaneously
+- [x] Filters use different input types
   - e.g., as a text input, a dropdown or radio selection, and/or a slider
-- [X] The user can enter specific bounds for filter values
+- [x] The user can enter specific bounds for filter values
 
 The following **additional** features are implemented:
 
-* [X] Added a clear filters button to reset filters to default, enabling users to start a clean search without having to reload the entire page.
-* [X] Enlarged placeholder text within dynamic search bar to draw user's attention to that as a ssearch option without having to use filters or search the entire page individually.
+- [x] Added a clear filters button to reset filters to default, enabling users to start a clean search without having to reload the entire page.
+- [x] Enlarged placeholder text within dynamic search bar to draw user's attention to that as a ssearch option without having to use filters or search the entire page individually.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here’s a video walkthrough of the implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_8-BF_UXPbE" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.youtube.com/watch?v=_8-BF_UXPbE/hqdefault.jpg" width="600" alt="Video Walkthrough Thumbnail">
+  </a>
+</p>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<p align="center">
+  <img src="public/project5Part1Walkthrough.gif" alt="Project Walkthrough">
+</p>
+
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
 
 ## Notes
 
-I had originally wanted to do something with an orbital objects tracking reference (I'm a space nerd!), but the fetch linke I wanted to use was not working properly with my app build.  So, I changed gears, keeping it space-oriented, but changed over to planned space launches.
+I had originally wanted to do something with an orbital objects tracking reference (I'm a space nerd!), but the fetch linke I wanted to use was not working properly with my app build. So, I changed gears, keeping it space-oriented, but changed over to planned space launches.
 
 ## License
 
